@@ -1,0 +1,9 @@
+hlms Unlit/Red unlit
+{
+    diffuse 1 0 0 1
+}
+
+hlms SimplePbs pbs
+{
+        fresnel 1.33
+}
